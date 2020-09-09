@@ -13,7 +13,7 @@ baseurl: /
 canonicalurl: true
 date:
   format: j F Y
-  timezone: Europe/England
+  timezone: Europe/Paris
 virtualpages:
   - path: admin
     title: Content Manager (Netlify CMS)
